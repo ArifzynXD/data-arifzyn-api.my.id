@@ -1,7 +1,7 @@
-# Data for danzzapi.xyz
+# Data for Arifzyn APIs 
 
 ## Example
-<a href="https://danzzapi.xyz">danzzapi.xyz</a>
+<a href="https://api-arifzyn-dev.my.id">Arifzyn Api</a>
 
 ## List Api
 
